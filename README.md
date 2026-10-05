@@ -51,9 +51,9 @@ I like purposeful projects that turn complex problems into clean, scalable solut
 
 | Project | What it is | Stack |
 |---|---|---|
-| [PiGuardian (milestone2IOT)](https://github.com/ilianadeleke/milestone2IOT) | IoT home security system on Raspberry Pi, with MQTT sensors, a PostgreSQL REST API and a live Flask dashboard deployed on Render | Python · Flask · PostgreSQL · MQTT |
-| [MobileDevProject](https://github.com/ilianadeleke/MobileDevProject) | _One line on what the app does_ | Kotlin · Android |
-| [WeAreFashionXcode](https://github.com/ilianadeleke/WeAreFashionXcode) | _One line on what the app does_ | Swift · iOS |
+| [Champlain Pet Clinic](https://github.com/cgerard321/champlain_petclinic) | Enterprise microservices platform built over 5 years by student teams. See [my merged pull requests](https://github.com/cgerard321/champlain_petclinic/pulls?q=is%3Apr+author%3Ailianadeleke+is%3Amerged) | Java · Spring Boot · React · Angular · Docker |
+| [PiGuardian](https://github.com/ilianadeleke/PiGuardian_Iot) | IoT home security system on Raspberry Pi with motion detection, MQTT device control, PostgreSQL storage and a Flask dashboard. [Live demo](https://piguardiandashboardrender.onrender.com) | Python · Flask · PostgreSQL · MQTT |
+| [MobileDevProject](https://github.com/ilianadeleke/MobileDevProject) | Android fitness and nutrition tracker with calorie goals, food and exercise logging, and Google Maps | Kotlin · Android · Room |
 
 ## 🎓 Highlights
 
